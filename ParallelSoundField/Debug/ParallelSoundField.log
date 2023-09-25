@@ -1,0 +1,8 @@
+﻿  main.cpp
+e:\a001_code\vs14_projs\parallelsoundfield\parallelsoundfield\main.cpp(62): warning C4305: “参数”: 从“double”到“float”截断
+e:\a001_code\vs14_projs\parallelsoundfield\parallelsoundfield\main.cpp(62): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\a001_code\vs14_projs\parallelsoundfield\parallelsoundfield\main.cpp(77): warning C4305: “参数”: 从“double”到“float”截断
+e:\a001_code\vs14_projs\parallelsoundfield\parallelsoundfield\main.cpp(77): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\a001_code\vs14_projs\parallelsoundfield\parallelsoundfield\main.cpp(92): warning C4101: “cmd1”: 未引用的局部变量
+  ParallelSoundField.vcxproj -> E:\A001_code\vs14_projs\ParallelSoundField\Debug\ParallelSoundField.exe
+  ParallelSoundField.vcxproj -> E:\A001_code\vs14_projs\ParallelSoundField\Debug\ParallelSoundField.pdb (Partial PDB)
